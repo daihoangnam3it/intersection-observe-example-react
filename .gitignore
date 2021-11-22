@@ -1,0 +1,15 @@
+dist/
+node_modules/
+.idea/
+.DS_Store
+package-lock.json
+_site/
+.now
+.parcel-cache/
+
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
