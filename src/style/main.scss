@@ -1,16 +1,6 @@
-*{
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
+@import "base/index.scss";
+@import "page/index.scss";
 
-body{
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-}
-.container{
-  width: 1440px;
-  height: 100vh;
-  background-color: lavenderblush;
-}
+
+
+

@@ -6,6 +6,7 @@ package-lock.json
 _site/
 .now
 .parcel-cache/
+.env
 
 .yarn/*
 !.yarn/releases
